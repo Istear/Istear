@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Istear Ahmed</h1>
 <h3 align="center">I'm currently working as a Software Quality Assurance Engineer. Working in Various projects of Software Automation, SQA, Manual testing, API testing, Performance testing, Web & Mobile application testing and Database testing.</h3>
 
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif){: .align-right width="200"}
+![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif){: .align-right height="100"}
 
 
 - 🔭 I’m currently working on [Inkam Agent App](https://play.google.com/store/apps/details?id=app.inkam.agent.twa)
