@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Istear Ahmed</h1>
-<h3 align="center">I'm currently working as a Software Quality Assurance Engineer. Working in Various projects of Software Automation, SQA, Manual testing, API testing, Performance testing, Web & Mobile application testing and Database testing.</h3>
+<h3 align="center">I'm currently working as a Software Quality Assurance Engineer. Working on Various projects of Software Automation, SQA, Manual testing, API testing, Performance testing, Web & Mobile application testing and Database testing.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **istearahmed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16qTaYRo6JxXP5OhWVt4WDnOoOwU7qLzs/view?usp=sharing](https://drive.google.com/file/d/16qTaYRo6JxXP5OhWVt4WDnOoOwU7qLzs/view?usp=sharing)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
