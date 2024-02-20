@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Istear](https://github.com/Istear)
 
-- 💬 Ask me about **Software Quality Assurance, DevOps and automation**
+- 💬 Ask me about **Software Quality Assurance, DevOps and Automation**
 
 - 📫 How to reach me **istearahmed@gmail.com**
 
