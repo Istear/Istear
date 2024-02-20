@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Istear Ahmed</h1>
 <h3 align="center">I'm currently working as a Software Quality Assurance Engineer. Work in Various projects of Software Automation, SQA, Manual testing, API testing, Performance testing, Web & Mobile application testing and Database testing.</h3>
 
