@@ -22,7 +22,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Java](https://img.shields.io/badge/badge%2FJava-red) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
