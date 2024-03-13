@@ -13,7 +13,7 @@
 - 💬 Ask me about **Software Quality Assurance, DevOps and Automation**
 
 - 📫 How to reach me **istearahmed@gmail.com**
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/10HstSIlnfnjwnci0XJ98L1Vu3Z5kBfig/view?usp=drive_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/drive/folders/1U5OwC-imGD7WNomaH2Cmr6GcbDLRAm05)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
